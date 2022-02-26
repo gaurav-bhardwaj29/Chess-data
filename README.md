@@ -5,4 +5,5 @@
 The goal of this project is to predict win/lose condition(Classification Task)
 
 The project utilises various classification machine learning algorithms and popular Python libraries(pandas, seaborn, matplotlib, scikit-learn).
+
 Link to the dataset: https://www.kaggle.com/datasnaek/chess
